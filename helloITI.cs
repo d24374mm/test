@@ -5,4 +5,11 @@ public class HelloITI
         Console.WriteLine("hello ITI");
 
     }
+
+
+    public void printHelloGit()
+    {
+        Console.WriteLine(" print  hello git");
+
+    }
 }
